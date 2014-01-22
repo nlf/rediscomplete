@@ -37,9 +37,9 @@ var data = [
   { id: 2, name: 'Van Halen' },
   { id: 3, name: 'Tupac' },
   { id: 4, name: 'Eminem' },
-  { id: 5, name 'Ne-Yo' },
+  { id: 5, name: 'Ne-Yo' },
   { id: 6, name: 'New Found Glory' },
-  { id: 7, name: 'Alejandro Fernández }
+  { id: 7, name: 'Alejandro Fernández' }
 ];
 
 // Index data
